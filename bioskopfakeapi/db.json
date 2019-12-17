@@ -41,6 +41,24 @@
       "password": "90",
       "role": "user",
       "id": 7
+    },
+    {
+      "username": "hendrianakharam",
+      "password": "123",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "username": "james1",
+      "password": "123",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "username": "james",
+      "password": "123",
+      "role": "user",
+      "id": 10
     }
   ],
   "studios": [
@@ -193,6 +211,222 @@
       "jadwal": 12,
       "bayar": false,
       "id": 10
+    },
+    {
+      "userId": 3,
+      "movieId": 1,
+      "totalharga": 200000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "movieId": 1,
+      "totalharga": 50000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "movieId": 4,
+      "totalharga": 50000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "movieId": 4,
+      "totalharga": 50000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "movieId": 4,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "movieId": 4,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 16
+    },
+    {
+      "userId": 8,
+      "movieId": 1,
+      "totalharga": 100000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "movieId": 3,
+      "totalharga": 50000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 18
+    },
+    {
+      "userId": 3,
+      "movieId": 4,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 19
+    },
+    {
+      "userId": 3,
+      "movieId": 4,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 20
+    },
+    {
+      "userId": 3,
+      "movieId": 3,
+      "totalharga": 50000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 21
+    },
+    {
+      "userId": 3,
+      "movieId": 1,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 22
+    },
+    {
+      "userId": 2,
+      "movieId": 3,
+      "totalharga": 75000,
+      "jadwal": 16,
+      "bayar": false,
+      "id": 23
+    },
+    {
+      "userId": 2,
+      "movieId": 1,
+      "totalharga": 50000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 24
+    },
+    {
+      "userId": 2,
+      "movieId": 3,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 25
+    },
+    {
+      "userId": 2,
+      "movieId": 4,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 26
+    },
+    {
+      "userId": 2,
+      "movieId": 1,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 27
+    },
+    {
+      "userId": 2,
+      "movieId": 1,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 28
+    },
+    {
+      "userId": 2,
+      "movieId": 3,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 29
+    },
+    {
+      "userId": 2,
+      "movieId": 3,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 30
+    },
+    {
+      "userId": 2,
+      "movieId": 4,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 31
+    },
+    {
+      "userId": 2,
+      "movieId": 4,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 32
+    },
+    {
+      "userId": 2,
+      "movieId": 1,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 33
+    },
+    {
+      "userId": 2,
+      "movieId": 3,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 34
+    },
+    {
+      "userId": 2,
+      "movieId": 3,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 35
+    },
+    {
+      "userId": 2,
+      "movieId": 4,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 36
+    },
+    {
+      "userId": 10,
+      "movieId": 1,
+      "totalharga": 25000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 37
     }
   ],
   "ordersDetails": [
@@ -297,6 +531,276 @@
       "seat": 10,
       "row": 2,
       "id": 17
+    },
+    {
+      "orderId": 11,
+      "seat": 11,
+      "row": 4,
+      "id": 18
+    },
+    {
+      "orderId": 11,
+      "seat": 12,
+      "row": 2,
+      "id": 19
+    },
+    {
+      "orderId": 11,
+      "seat": 6,
+      "row": 6,
+      "id": 20
+    },
+    {
+      "orderId": 11,
+      "seat": 13,
+      "row": 2,
+      "id": 21
+    },
+    {
+      "orderId": 11,
+      "seat": 12,
+      "row": 7,
+      "id": 22
+    },
+    {
+      "orderId": 11,
+      "seat": 7,
+      "row": 6,
+      "id": 23
+    },
+    {
+      "orderId": 11,
+      "seat": 15,
+      "row": 3,
+      "id": 24
+    },
+    {
+      "orderId": 11,
+      "seat": 15,
+      "row": 5,
+      "id": 25
+    },
+    {
+      "orderId": 12,
+      "seat": 4,
+      "row": 3,
+      "id": 26
+    },
+    {
+      "orderId": 12,
+      "seat": 6,
+      "row": 4,
+      "id": 27
+    },
+    {
+      "orderId": 13,
+      "seat": 7,
+      "row": 0,
+      "id": 28
+    },
+    {
+      "orderId": 13,
+      "seat": 8,
+      "row": 0,
+      "id": 29
+    },
+    {
+      "orderId": 14,
+      "seat": 9,
+      "row": 0,
+      "id": 30
+    },
+    {
+      "orderId": 14,
+      "seat": 10,
+      "row": 0,
+      "id": 31
+    },
+    {
+      "orderId": 15,
+      "seat": 11,
+      "row": 0,
+      "id": 32
+    },
+    {
+      "orderId": 16,
+      "seat": 12,
+      "row": 0,
+      "id": 33
+    },
+    {
+      "orderId": 17,
+      "seat": 9,
+      "row": 4,
+      "id": 34
+    },
+    {
+      "orderId": 17,
+      "seat": 9,
+      "row": 5,
+      "id": 35
+    },
+    {
+      "orderId": 17,
+      "seat": 9,
+      "row": 6,
+      "id": 36
+    },
+    {
+      "orderId": 17,
+      "seat": 9,
+      "row": 7,
+      "id": 37
+    },
+    {
+      "orderId": 18,
+      "seat": 9,
+      "row": 1,
+      "id": 38
+    },
+    {
+      "orderId": 18,
+      "seat": 10,
+      "row": 1,
+      "id": 39
+    },
+    {
+      "orderId": 19,
+      "seat": 9,
+      "row": 1,
+      "id": 40
+    },
+    {
+      "orderId": 20,
+      "seat": 10,
+      "row": 1,
+      "id": 41
+    },
+    {
+      "orderId": 21,
+      "seat": 9,
+      "row": 2,
+      "id": 42
+    },
+    {
+      "orderId": 21,
+      "seat": 10,
+      "row": 2,
+      "id": 43
+    },
+    {
+      "orderId": 22,
+      "seat": 10,
+      "row": 0,
+      "id": 44
+    },
+    {
+      "orderId": 23,
+      "seat": 11,
+      "row": 0,
+      "id": 45
+    },
+    {
+      "orderId": 23,
+      "seat": 9,
+      "row": 1,
+      "id": 46
+    },
+    {
+      "orderId": 23,
+      "seat": 9,
+      "row": 2,
+      "id": 47
+    },
+    {
+      "orderId": 24,
+      "seat": 13,
+      "row": 8,
+      "id": 48
+    },
+    {
+      "orderId": 24,
+      "seat": 14,
+      "row": 8,
+      "id": 49
+    },
+    {
+      "orderId": 25,
+      "seat": 11,
+      "row": 1,
+      "id": 50
+    },
+    {
+      "orderId": 26,
+      "seat": 13,
+      "row": 1,
+      "id": 51
+    },
+    {
+      "orderId": 27,
+      "seat": 7,
+      "row": 4,
+      "id": 52
+    },
+    {
+      "orderId": 28,
+      "seat": 0,
+      "row": 0,
+      "id": 53
+    },
+    {
+      "orderId": 29,
+      "seat": 12,
+      "row": 1,
+      "id": 54
+    },
+    {
+      "orderId": 30,
+      "seat": 10,
+      "row": 0,
+      "id": 55
+    },
+    {
+      "orderId": 31,
+      "seat": 13,
+      "row": 0,
+      "id": 56
+    },
+    {
+      "orderId": 32,
+      "seat": 9,
+      "row": 2,
+      "id": 57
+    },
+    {
+      "orderId": 33,
+      "seat": 7,
+      "row": 2,
+      "id": 58
+    },
+    {
+      "orderId": 34,
+      "seat": 12,
+      "row": 3,
+      "id": 59
+    },
+    {
+      "orderId": 35,
+      "seat": 11,
+      "row": 2,
+      "id": 60
+    },
+    {
+      "orderId": 36,
+      "seat": 12,
+      "row": 2,
+      "id": 61
+    },
+    {
+      "orderId": 37,
+      "seat": 17,
+      "row": 2,
+      "id": 62
     }
   ],
   "transaction": [
